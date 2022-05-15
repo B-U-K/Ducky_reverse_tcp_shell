@@ -1,4 +1,4 @@
-REM Doesnt work with Echtzeitschutz on
+REM Doesnt work with realtime Monitoring=on
 DELAY 2000
 GUI r
 DELAY 1000
