@@ -40,6 +40,6 @@ Encode and flash the DuckyCode file on the Ducky
 
 insert the USB-RubberDucky
 
---> This payload downloads and executes the hosted .exe file via Powershell. With low security settings the malicious payload should be executed by now -> Meterpreter Session should open in the msfconsole 
+--> This payload downloads and executes the hosted .exe file via Powershell. Any AntiMalware Software will recognize this so its jsut a educational project -> Meterpreter session should open in the msfconsole 
 
 Mission complete
